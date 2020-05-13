@@ -1,6 +1,6 @@
 # Doc Scan Sandbox test app
 
-Demo app used to demonstrating Doc Scan sandbox testing
+Demo app used to demonstrate Doc Scan sandbox testing
 
 Configure using the following environment variables:
 - `YOTI_CLIENT_SDK_ID` your client SDK ID
