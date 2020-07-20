@@ -1,5 +1,3 @@
-const config = require('../../config');
-
 const {
   DocScanClient,
   SessionSpecificationBuilder,
@@ -10,6 +8,7 @@ const {
   SdkConfigBuilder,
   DocScanConstants,
 } = require('yoti');
+const config = require('../../config');
 
 /**
  * Create a Doc Scan session.
