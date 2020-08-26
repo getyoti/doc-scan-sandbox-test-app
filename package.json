@@ -17,7 +17,7 @@
     "ejs": "^3.1.5",
     "express": "^4.17.1",
     "express-session": "^1.17.0",
-    "file-type": "^14.7.1",
+    "file-type": "^15.0.0",
     "yoti": "^3.10.0"
   },
   "devDependencies": {
